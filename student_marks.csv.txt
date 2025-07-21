@@ -1,0 +1,6 @@
+Name,Math,Physics,Chemistry,English,CS
+Ravi,78,85,69,74,91
+Priya,88,79,92,81,85
+Kiran,65,58,49,72,69
+Anjali,45,62,35,40,55
+Suman,90,94,88,93,92
